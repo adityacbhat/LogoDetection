@@ -1,0 +1,4 @@
+train: data_files/train/images 
+val: data_files/test/images  
+nc: 1
+names: ['Pepsi']
